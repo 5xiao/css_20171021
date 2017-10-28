@@ -6,6 +6,9 @@ h1{
     background-color: teal;
     /*margin: 0;*/
 }
+P span{
+    color: red;
+}
 /*body{
     margin: 0;
 }*/
